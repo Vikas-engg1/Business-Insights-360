@@ -131,7 +131,7 @@ Fact Table : It will have the data about the transactions.
 ![Data Model](https://github.com/user-attachments/assets/f163e6c3-19a0-4fb1-93ce-70de512e001a)
 ###### Dashboard designing
 - Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required.
-###### Home view
+###### Home View
 - In Home view, the entire views button will be available. User will land on specific view page by clicking the button
 - Info
 - Finance View
@@ -141,3 +141,5 @@ Fact Table : It will have the data about the transactions.
 - Executive View
 - Products
 - Support
+![HOME](https://github.com/user-attachments/assets/7687629d-ef62-4ed3-843b-3dc86032c15a)
+###### Finance view
