@@ -146,3 +146,6 @@ Fact Table : It will have the data about the transactions.
 ![FINANACE](https://github.com/user-attachments/assets/70680ea2-d00c-4ca6-8552-b8936a8fa124)
 ###### Sales View
 ![SALES](https://github.com/user-attachments/assets/c2cc20bb-a118-4d26-9e10-cdf6e66aa29e)
+###### Marketing View
+![MARKETING](https://github.com/user-attachments/assets/ac8907f6-ee12-4c6f-b496-183a64204b56)
+###### Supply Chain View
