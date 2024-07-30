@@ -154,3 +154,5 @@ Fact Table : It will have the data about the transactions.
 ![EXE](https://github.com/user-attachments/assets/8d8a8e56-fdd7-4fe0-ab8a-a3849a2421c3)
 #### Project Outcome
 - By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+#### You can find the full report file here :
+[New Buisness Insight 360.pdf](https://github.com/user-attachments/files/16429040/New.Buisness.Insight.360.pdf)
