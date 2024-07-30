@@ -142,4 +142,6 @@ Fact Table : It will have the data about the transactions.
 - Products
 - Support
 ![HOME](https://github.com/user-attachments/assets/7687629d-ef62-4ed3-843b-3dc86032c15a)
-###### Finance view
+###### Finance View
+![FINANACE](https://github.com/user-attachments/assets/70680ea2-d00c-4ca6-8552-b8936a8fa124
+###### Sales View
