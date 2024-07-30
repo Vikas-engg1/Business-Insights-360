@@ -145,3 +145,4 @@ Fact Table : It will have the data about the transactions.
 ###### Finance View
 ![FINANACE](https://github.com/user-attachments/assets/70680ea2-d00c-4ca6-8552-b8936a8fa124)
 ###### Sales View
+![SALES](https://github.com/user-attachments/assets/c2cc20bb-a118-4d26-9e10-cdf6e66aa29e)
