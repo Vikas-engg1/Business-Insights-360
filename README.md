@@ -151,3 +151,4 @@ Fact Table : It will have the data about the transactions.
 ###### Supply Chain View
 ![SC](https://github.com/user-attachments/assets/27e281be-4407-4627-8633-7c48c74dbdd3)
 ###### Executive View
+![EXE](https://github.com/user-attachments/assets/8d8a8e56-fdd7-4fe0-ab8a-a3849a2421c3)
