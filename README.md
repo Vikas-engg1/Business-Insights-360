@@ -149,3 +149,5 @@ Fact Table : It will have the data about the transactions.
 ###### Marketing View
 ![MARKETING](https://github.com/user-attachments/assets/ac8907f6-ee12-4c6f-b496-183a64204b56)
 ###### Supply Chain View
+![SC](https://github.com/user-attachments/assets/27e281be-4407-4627-8633-7c48c74dbdd3)
+###### Executive View
